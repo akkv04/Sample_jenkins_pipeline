@@ -35,6 +35,10 @@ pipeline {
                 
             }
         }
+       stage('Jenkins testing'){
+            steps{
+                echo "Testing the auto trigger build"
+       }
     }
     
 }
