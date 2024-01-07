@@ -1,4 +1,4 @@
-http://ec2-3-27-104-72.ap-southeast-2.compute.amazonaws.com/job/testing_webhook/badge/icon
+[![Build Status](http://ec2-3-27-45-84.ap-southeast-2.compute.amazonaws.com/buildStatus/icon?job=testing_webhook)](http://ec2-3-27-104-72.ap-southeast-2.compute.amazonaws.com/job/testing_webhook/)
 
 
 # Sample_jenkins_pipeline
